@@ -1,0 +1,18 @@
+/* colors */
+
+* {
+  al:   #78AA89;
+  bg:   #b5b5aa;
+  bga:  #b5b5aa;
+  bar:  #b5b5aa;
+  fg:   #2b2b2b;
+  ac:   #2b2b2b;
+}
+
+// testcolor: #78AA89;
+// 	background-solid: #b5b5aa;
+// 	background-dimmed: #9e9e95;
+// 	search-text-color: #303030;
+// 	element-text-color: #2b2b2b;
+// 	active-background: #2b2b2b;
+// 	active-text: @background-solid;
